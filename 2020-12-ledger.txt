@@ -1,0 +1,148 @@
+# This is the 2020/21 ledger file
+
+2020-11-07 Opening Balances
+    Liabilities:HSBC-Credit-5262  £-121.47
+    Liabilities:HSBC-Credit-0005  £-982.78
+    Equity:Opening Balances
+
+2020-11-09 Amazon Blundstone boots
+    Expenses:Clothing   £123.00
+    Liabilities:HSBC-Credit-0005
+
+2020-11-10 Amazon Readly subscription
+    Expenses:Subscriptions   £9.99
+    Liabilities:HSBC-Credit-0005
+
+2020-11-11 Kindle Salvation Lost
+    Expenses:Books  £5.99
+    Liabilities:HSBC-Credit-0005
+
+2020-11-16 Amazon Prime
+    Expenses:Subscriptions  £7.99
+    Liabilities:HSBC-Credit-5262
+
+2020-11-16 Kindle Killing the Shadows
+    Expenses:Books   £3.99
+    Liabilities:HSBC-Credit-0005
+
+2020-11-16 Amazon Whiteboard tape
+    Expenses:Workshop   £5.99
+    Liabilities:HSBC-Credit-0005   
+
+2020-11-17 Amazon Soft grip scissors
+    Expenses:Crafts   £4.69
+    Liabilities:HSBC-Credit-0005
+
+2020-11-18 Amazon Pedal wrench
+    Expenses:Workshop  £10.89
+    Liabilities:HSBC-Credit-0005 
+
+2020-11-19 Non-Sterling Transaction Fee
+    Expenses:HAVF:Transaction fee   £0.56
+    Liabilities:HSBC-Credit-5262
+
+2020-11-19 Netflix
+    Expenses:Subscriptions   £11.99
+    Liabilities:HSBC-Credit-5262
+
+2020-11-18 Lo Zoo di Giovannino Firenze
+    Expenses:HAVF:Olly   £18.88
+    Liabilities:HSBC-Credit-5262
+
+2020-11-19 Amazon Carbon paper
+    Expenses:Workshop  £6.99
+    Liabilities:HSBC-Credit-0005
+
+2020-11-21 Amazon Strap wrench
+    Expenses:Workshop   £5.85
+    Liabilities:HSBC-Credit-0005
+
+2020-11-21 Amazon Carpet spray glue
+    Expenses:Workshop £6.99
+
+2020-11-21 Amazon 40mm woodscrews
+    Expenses:Workshop   £3.48
+    Liabilities:HSBC-Credit-0005
+
+2020-11-23 Amazon Acrylic paint and pens
+    Expenses:Craft  £11.38
+    Liabilities:HSBC-Credit-0005
+
+2020-11-29 Google Play
+    Expenses:Subscriptions   £1.39
+    Liabilities:HSBC-Credit-5262
+
+2020-12-01 Direct Debit Payment
+    Liabilities:HSBC-Credit-5262  £121.47
+    Assets: HSBC-Current
+
+2020-12-01 Opening Balances  
+    Assets:Coventry-savings          £ 218613.43
+    Liabilities:M&S-Bank                £-36.99
+    Liabilities:Coventry-mortgage   £-218152.18
+    Equity:Opening Balances
+
+2020-12-01 Morrisons turkey and pies deposit
+    Expenses:Groceries        £20
+    Assets:HSBC-Current
+
+2020-12-07 Opening Balance
+    Assets:HSBC-Current   £13187.30
+    Equity:Opening Balances
+
+2020-12-17 Marks and Spencer Frome
+    Expenses:Groceries      £61.05
+    Liabilities:M&S-Bank   £-61.05 
+ 
+2020-12-18 Marks and Spencer Internet
+    Expenses:Clothing        £52.15
+    Liabilities:M&S-Bank   £-52.15
+
+2020-12-21 Marks and Spencer car insurance
+    Expenses:Motoring:Insurance    £174.54
+    Liabilities:M&S-Bank          £-174.54
+
+2020-12-23 Morrisons turkey and pies balance
+    Expenses:Groceries         £30.66
+    Assets:HSBC-Current 
+
+2020-12-23 Non-Sterling transaction fee
+    Expenses:HAVF:Transaction fee   £1.06
+    Liabilities:HSBC-Credit-5262
+
+2020-12-23 Ambulatorio Veterinr Firenze
+    Expenses:HAVF:Olly              £35.39
+    Liabilities:HSBC-Credit-5262   £-35.39  
+
+2020-12-23 Amazon Strap wrench
+    Expenses:Workshop   £4.40
+    Liabilities:HSBC-Credit-5262
+
+2020-12-30 Google Play
+    Expenses:Subscriptions          £1.39
+    Liabilities:HSBC-Credit-5262
+
+2020-12-31 Coventry Mortgage statement
+    Expenses:Interest               £4702.70
+    Liabilities:Coventry-mortgage  £-4702.70
+    Income:Interest               £-4657.50
+    Liabilities:Coventry-mortgage   £4657.50
+    Liabilities:Coventry-mortgage  £14859.85
+    Assets:Coventry-savings       £-14859.85  
+
+2010-01-04
+    Liabilities:Coventry-mortgage   £1212.75
+    Assets:Coventry-savings        £-1212.75
+
+2021-01-09 Marks and Spencer direct debit
+    Liabilities:M&S-Bank        £36.99
+    Assets:HSBC-Current        £-36.99
+
+2021-01-20 Waitrose click-and-collect
+    Expenses:Groceries             £165.89
+    Liabilities:Mastercard-6329   £-165.89
+
+2021-01-21 Direct Debit Payment
+    Liabilities:HSBC-Credit-5262   £28.82
+    Assets:HSBC-Current           £-28.82
+
